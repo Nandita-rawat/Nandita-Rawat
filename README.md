@@ -1,4 +1,4 @@
-<h3 align="center">Turning Ideas into Data-Driven & AI-Powered Solutions</h3>
+<h3 align="center">AI | Technology | Business </h3>
 
 - 🌱 I’m currently learning **Deeplearning , GenerativeAI ,LLMs,Langchain,RAG,Vector Databases**
 
